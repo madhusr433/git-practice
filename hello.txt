@@ -1,1 +1,3 @@
 This is my first git file
+This line is confirmed that staging differnce is working.
+New line is added
